@@ -1,0 +1,1 @@
+El storeprocedure GenAllStoreProcedures(gentodo), depende de GenStoreProcedures, este debe estar creado antes para su uso
